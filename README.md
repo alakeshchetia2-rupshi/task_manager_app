@@ -16,14 +16,13 @@ A simple and elegant Task Manager mobile application built with Flutter. This ap
 ### Login Screen
 ![Login Screen](screenshots/login.png)
 
-
 ### Home Screen - All Tasks
 ![All Tasks](screenshots/home_all.png)
 
-### Filtered View - Completed Tasks
+### Completed Tasks View
 ![Completed Tasks](screenshots/completed.png)
 
-### Filtered View - Pending Tasks
+### Pending Tasks View
 ![Pending Tasks](screenshots/pending.png)
 
 ## 🛠️ Tech Stack
