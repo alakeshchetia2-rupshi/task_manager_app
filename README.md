@@ -1,16 +1,38 @@
-# task_manager_app
+# Task Manager App 📱
 
-A new Flutter project.
+A simple and elegant Task Manager mobile application built with Flutter. This app allows users to view and filter tasks fetched from a REST API.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- 🔐 **Login Screen** - Beautiful UI with gradient background (UI only)
+- 📋 **View Tasks** - Fetch and display tasks from JSONPlaceholder API
+- ✅ **Task Status** - Each task shows title and status (Completed/Pending)
+- 🔍 **Filter Options** - Filter tasks by All, Completed, or Pending
+- 🎨 **Clean UI** - Responsive design with modern material design
+- 📱 **State Management** - Provider pattern for efficient state management
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Login Screen
+![Login Screen](screenshots/login.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+### Home Screen - All Tasks
+![All Tasks](screenshots/home_all.png)
+
+### Filtered View - Completed Tasks
+![Completed Tasks](screenshots/completed.png)
+
+### Filtered View - Pending Tasks
+![Pending Tasks](screenshots/pending.png)
+
+## 🛠️ Tech Stack
+
+- **Framework**: Flutter SDK
+- **Language**: Dart
+- **State Management**: Provider
+- **HTTP Client**: http package
+- **API**: JSONPlaceholder (https://jsonplaceholder.typicode.com)
+
+## 📁 Project Structure
+**Made with ❤️ by Alakesh Chetia**
